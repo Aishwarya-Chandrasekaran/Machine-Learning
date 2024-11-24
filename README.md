@@ -4,7 +4,7 @@ Cleaned and explored data, addressing missing values, duplicates, and scaling fe
 Applied and evaluated multiple machine learning models using metrics like accuracy, precision, recall, and F1-score to determine the best-performing model.
 
 Key Achievements:
-	Improved model accuracy to approximately 87% using Random Forest.
-	Integrated feedback to refine data handling and modelling approach.
-	Developed robust methodology for predictive modelling, ensuring reproducibility and reliability of results.
+	-Improved model accuracy to approximately 87% using Random Forest.
+	-Integrated feedback to refine data handling and modelling approach.
+	-Developed robust methodology for predictive modelling, ensuring reproducibility and reliability of results.
 
